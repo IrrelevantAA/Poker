@@ -1,0 +1,23 @@
+{
+  "name": "Open Raise",
+  "short_name": "Open Raise",
+  "description": "GTO Pre-flop Poker Advisor",
+  "start_url": "/Poker/poker-advisor-v2.html",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#0a0c10",
+  "icons": [
+    {
+      "src": "file_0000000014f071f59ec882ea56c802ae~2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "file_0000000014f071f59ec882ea56c802ae~2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
